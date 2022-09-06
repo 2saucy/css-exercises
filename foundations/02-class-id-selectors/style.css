@@ -1,0 +1,24 @@
+
+/* Type Selector */ 
+p {
+    background-color: pink;
+    font-family: Verdana,"DejaVu Sans",sans-serif;
+}
+
+/* ID Selector */
+#NumberTwo {
+    color: blue;
+    font-size: 36px;
+}
+
+/* Grouping Selector */
+.NumberThree,
+.NumberFour {
+    font-size: 24px;
+}
+
+/* Class Selector */
+.NumberFour {
+    background-color: lightgreen;
+    font-weight: bold;
+}
